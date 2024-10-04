@@ -1,0 +1,20 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+.content
+{
+    text-align: center;
+}
+.imagebox
+{
+    height: 200px;
+    width: 350px;
+}
+.imagebox img
+{
+    height: 100%;
+    width: 100%;
+}
